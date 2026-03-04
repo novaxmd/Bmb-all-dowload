@@ -1,4 +1,4 @@
-# VideoDownCut
+# Bmb all download
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/TheMegafuji/VideoDownCut.git
+git clone https://github.com/novaxmd/Bmb-all-dowload.git
 cd VideoDownCut
 
 # Install dependencies
@@ -66,7 +66,7 @@ npm run dev
 
 ### Backend (API)
 
-VideoDownCut requires a dedicated backend for processing operations. See the [backend repository](https://github.com/TheMegafuji/VideoDownCut-api) for installation instructions.
+VideoDownCut requires a dedicated backend for processing operations. See the [backend repository](https://github.com/novaxmd/Bmb-all-dowload-api) for installation instructions.
 
 ## 📖 Usage
 
@@ -123,7 +123,7 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 <div align="center">
   
-  Developed with ❤️ by [Megafuji](https://github.com/TheMegafuji)
+  Developed with ❤️ by [Bmb Tech](https://github.com/novaxmd)
   
-  ⭐ Like this project? [Give it a star on GitHub](https://github.com/TheMegafuji/VideoDownCut)
+  ⭐ Like this project? [Give it a star on GitHub](https://github.com/novaxmd/Bmb-all-dowload)
 </div> 
